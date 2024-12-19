@@ -3,7 +3,7 @@
 include_once('crest.php');
 
 
-if(!empty($_REQUEST['auth']['application_token']) && $_REQUEST['auth']['application_token'] == 'zk7a61pcihn007tau3dv8tkpqqazr1o8')
+if(!empty($_REQUEST['auth']['application_token']) && $_REQUEST['auth']['application_token'] == '#######')
 {
 	if(in_array($_REQUEST['event'], ['0' => 'ONCRMDEALUPDATE', ]))
 	{

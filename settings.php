@@ -1,8 +1,8 @@
 <?php
-define('C_REST_CLIENT_ID','app.66d6dbaaa49ba3.55303292');//Application ID
-define('C_REST_CLIENT_SECRET','B9v8Ev6PKr7FoYhe1eTNYYDXKVoR3pkM0XinhiRAANyQulUXVX');//Application key
+define('C_REST_CLIENT_ID','app.#####');//Application ID
+define('C_REST_CLIENT_SECRET','#####');//Application key
 // or
-define('C_REST_WEB_HOOK_URL','https://iclect.bitrix24.ru/rest/56/2pydkkcse4iwnris/');//url on creat Webhook
+define('C_REST_WEB_HOOK_URL','https://####.bitrix24.ru/rest/##/####/');//url on creat Webhook
 
 //define('C_REST_CURRENT_ENCODING','windows-1251');
 //define('C_REST_IGNORE_SSL',true);//turn off validate ssl by curl

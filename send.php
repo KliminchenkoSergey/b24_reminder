@@ -4,7 +4,7 @@ require_once (__DIR__.'/crest.php');
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
-  $conn = mysqli_connect("localhost", "bitrix24", "Xzup2jWB", "reminderInTG");
+  $conn = mysqli_connect("localhost", "bitrix24", "#####", "reminderInTG");
   if (!$conn) {
     die("Ошибка подготовки запроса: " . mysqli_error($conn));
   }

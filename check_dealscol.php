@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost", "bitrix24", "Xzup2jWB", "reminderInTG");
+$conn = mysqli_connect("localhost", "bitrix24", "######", "reminderInTG");
 
 // Проверка соединения
 if ($conn->connect_error) {
